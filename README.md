@@ -1,1 +1,1 @@
-Python developer, chasing the dream.
+Software developer, chasing the dream.
