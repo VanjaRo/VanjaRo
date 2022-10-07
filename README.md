@@ -6,7 +6,7 @@
 
 I usually **strive to challenge** myself and find creative solutions to difficult problems.   
 I'm **not afraid** of a problem, I'm afraid I haven't tried enough.   
-I'm a **team player** and I value people with open mindset and willingness to create. 
+I'm a **team player** and I value people with an open mindset and willingness to create. 
 
 
   ![Dune GIF](https://64.media.tumblr.com/096b08fd9f7b4db6f9e6eaddcd07acb0/88cdf0c082f7bb6b-08/s500x750/eb80b7c20107df7266d0456e3da13d8ae1f7789c.gifv)
