@@ -4,7 +4,7 @@
 - Persuing Bachelor's degree (graduation year) in ITMO University on Computer Science and Engineering program
 
 
-I usually **strive to challenge** myself and find creative solutions to a difficult problems.   
+I usually **strive to challenge** myself and find creative solutions to difficult problems.   
 I'm **not afraid** of a problem, I'm afraid I haven't tried enough.   
 I'm a **team player** and I value people with open mindset and willingness to create. 
 
