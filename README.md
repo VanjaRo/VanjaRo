@@ -1,5 +1,7 @@
 ## Quick "about me"
 
+Currently working in **Huawei Cloud Research Team** 
+
 - Fullstack Software Developer with a focus on backend
 - Persuing Bachelor's degree (graduation year) in ITMO University on Computer Science and Engineering program
 
