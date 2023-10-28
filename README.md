@@ -1,9 +1,7 @@
 ## Quick "about me"
 
-Currently working in **Huawei Cloud Research Team** 
-
-- Fullstack Software Developer with a focus on backend
-- Persuing Bachelor's degree (graduation year) in ITMO University on Computer Science and Engineering program
+- Software Developer
+- Persuing Master's degree in ITMO University on Software Engineering program
 
 
 I usually **strive to challenge** myself and find creative solutions to difficult problems.   
@@ -25,7 +23,7 @@ Distributed systems design, multithreading and parallel programming, blockcain a
 
 ## Links to share
 
-[My CV on GDrive](https://drive.google.com/file/d/1d0OIt6Ft8pZLsSPHZR8KC7U19E6ZnJNY/view?usp=sharing)  
+[My CV on GDrive](https://drive.google.com/file/d/1t-KHKUE-QXtubocYxbtI94uFinve3a6z/view?usp=sharing)  
 [My LinkedIn](https://www.linkedin.com/in/RozhnovskiyIvan/)  
 [My LeetCode](https://leetcode.com/VanjaRo/)
 
