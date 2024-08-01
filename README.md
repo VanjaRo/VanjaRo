@@ -30,7 +30,7 @@ Distributed systems design, multithreading and parallel programming, blockcain a
 
 ## Links to share
 
-[My CV on GDrive](https://drive.google.com/file/d/1t-KHKUE-QXtubocYxbtI94uFinve3a6z/view?usp=sharing)  
+[My CV on GDrive](https://drive.google.com/file/d/11WWnSoT0PVlZ5QhXRRbFBiydX_1w4uvw/view?usp=sharing)  
 [My LinkedIn](https://www.linkedin.com/in/RozhnovskiyIvan/)  
 [My LeetCode](https://leetcode.com/VanjaRo/)
 
