@@ -20,7 +20,7 @@ Actually, I'm quite good at learnig new stuff, so new techonology won't make any
 ## Pet Projects
 [Babencoin](https://github.com/VanjaRo/rust_mipt/tree/master/problems/async/babencoin) (rayon, crossbeam, net) – toy yet complex blockchain project focused on OS concurrency.  
 [Orm](https://github.com/VanjaRo/rust_mipt/tree/master/problems/macros-2/orm) (rusqlite) – small orm with sqlite support, practicing declarative and procedural macros.  
-[Mini-frunk](https://github.com/VanjaRo/rust_mipt/tree/master/problems/macros/mini-frunk) – simplified version of frunk package, implementing structural typing with declarative heterogenius lists of types.  
+[Mini-frunk](https://github.com/VanjaRo/rust_mipt/tree/master/problems/macros/mini-frunk) – simplified version of frunk package, implementing structural typing with declarative heterogeneous lists of types.  
 [ripgzip decompressor](https://github.com/VanjaRo/rust_mipt/tree/master/problems/modules/ripgzip) – implemented gzip decompressor based on Deflate and Gzip RFS(1951, 1952).  
 [web-crawler](https://github.com/VanjaRo/rust_mipt/tree/master/problems/async/crawler) (tokio, linkify, reqwest) – simple crawler utilizing tokio asynchronous tasks.   
 
