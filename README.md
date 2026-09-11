@@ -1,7 +1,7 @@
 ## Quick "about me"
 
 - Software Developer
-- Persuing Master's degree in ITMO University on Software Engineering program
+- ITMO University | Master's degree | Computer Software Engineering
 
   ![Dune GIF](https://64.media.tumblr.com/096b08fd9f7b4db6f9e6eaddcd07acb0/88cdf0c082f7bb6b-08/s500x750/eb80b7c20107df7266d0456e3da13d8ae1f7789c.gifv)
 
